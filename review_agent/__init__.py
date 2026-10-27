@@ -1,0 +1,1 @@
+"""Read-only ADK code review assistant."""
